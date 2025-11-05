@@ -20,8 +20,8 @@ The above folders contain the files generated during the curation process. See b
 >- The completed notebook is also provided both as a python notebook file (`*.ipynb`) and as a PDF.
 
 #### Genome assembly NCBI accession numbers
-|Species|Accession|
------------------
-|_Drosophila melanogaster_|GCA_000001215.4|
-|_Bungarus multicinctus_|GCA_023653725.1|
-|_Oryza sativa_|GCF_034140825.1|
+| Species|Accession|
+| ------ | ------- |
+| _Drosophila melanogaster_ | GCA_000001215.4 |
+| _Bungarus multicinctus_ | GCA_023653725.1 |
+| _Oryza sativa_ | GCF_034140825.1 |
