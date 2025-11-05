@@ -7,4 +7,4 @@
 >- The completed notebook is also provided both as a python notebook file (`*.ipynb`) and as a PDF.
 
 #### Important
-Please use the file `copia_con.fa` as the input repeat library FASTA file for this example and use `rnd-3_family-103` for the SeqID field.
+For Step 2.1 in the notebook: Please use the file `copia_con.fa` as the input repeat library FASTA file for this example and use `rnd-3_family-103` for the SeqID field.
