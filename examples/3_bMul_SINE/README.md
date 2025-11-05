@@ -7,5 +7,5 @@
 >- The completed notebook is also provided both as a python notebook file (`*.ipynb`) and as a PDF.
 
 #### Important
-For Step 2.1 in the notebook: Please use the file `gypsy_con.fa` as the input repeat library FASTA file for this example and use `rnd-1_family-245` for the SeqID field.
+For Step 2.1 in the notebook: Please use the file `sine_con.fa` as the input repeat library FASTA file for this example and use `rnd-2_family-242` for the SeqID field.
 
